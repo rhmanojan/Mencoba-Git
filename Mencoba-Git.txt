@@ -2,3 +2,4 @@ Mencoba GIT
 - Belajar dasar GIT
 - Membuat projek dan di push ke GIT
 - Bekerja secara tim di GIT
+- menjadi jago di GIT
