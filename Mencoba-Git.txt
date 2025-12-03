@@ -1,4 +1,4 @@
 Mencoba GIT
-- Mencari tahu apa itu GIT/GITHUB
 - Belajar dasar GIT
 - Membuat projek dan di push ke GIT
+- Bekerja secara tim di GIT
