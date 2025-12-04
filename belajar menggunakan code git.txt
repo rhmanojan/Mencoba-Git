@@ -1,0 +1,2 @@
+belajar menggunakan code git
+- menambahkan code commit seperti git commit -m
